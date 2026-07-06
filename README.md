@@ -16,3 +16,5 @@ If you have any questions or are interested in presenting a topic please reach o
 **Topic:** Hack4Rail - Taxi Vouchers
 
 Get some insights into the winning project of [Hack4Rail 2026](https://hack4rail.org) and the opportunity to discuss what could come next.
+
+The project is about addressing the challenge of [](https://hack4rail.org/challenges/digitalization-of-taxi-vouchers-and-passenger-pooling-in-disruption-cases/) and the project published its solution at https://github.com/OpenRail-Playground/taxi.
