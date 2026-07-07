@@ -12,7 +12,7 @@ If you have any questions or are interested in presenting a topic please reach o
 
 **Date:** Thursday, July 9th 2026<br/>
 **Time:** 14:00 CEST<br/>
-**Link to join:** https://teams.microsoft.com/meet/34358643243358?p=YeLzEPhoG6wV1vZkmu<br/>
+**Link to join:** (https://share.openrailassociation.org/call/mxhwgsqv)
 **Topic:** Hack4Rail - Taxi Vouchers
 
 Get some insights into the winning project of [Hack4Rail 2026](https://hack4rail.org) and the opportunity to discuss what could come next.
