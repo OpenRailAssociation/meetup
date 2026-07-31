@@ -10,10 +10,10 @@ If you have any questions or are interested in presenting a topic please reach o
 
 ## Next Meetup
 
-**Date:** Thursday, July 9th 2026<br/>
+**Date:** Thursday,  12.8.2026<br/>
 **Time:** 14:00 CEST<br/>
-**Link to join:** https://conf.fsfe.org/b/openrail <br/>
-**Topic:** Hack4Rail - Taxi Vouchers
+**Link to join:** tho be boradcasted <br/>
+**Topic:** [on our current board](https://github.com/orgs/OpenRailAssociation/projects/35)
 
 Get some insights into the winning project of [Hack4Rail 2026](https://hack4rail.org) and the opportunity to discuss what could come next.
 
