@@ -12,15 +12,11 @@ If you have any questions or are interested in presenting a topic please reach o
 
 **Date:** Thursday,  13.8.2026<br/>
 **Time:** 14:00 CEST<br/>
-**Link to join:** to be broadcasted <br/>
-**Topic:** Machine-Readable Railway Regulations
+**Link to join:** [Join here](https://github.com/OpenRailAssociation/meetup/issues/4) <br/>
+**Topic:** [Machine-Readable Railway Regulations](https://github.com/OpenRailAssociation/meetup/issues/5)
 
 Discover how railway regulations can be transformed into machine-readable formats to improve interoperability, automation, and digital innovation across the rail sector.
 
 ## Past Meetups
 
-**Date:** Thursday, July 9th 2026
-
-Get some insights into the winning project of [Hack4Rail 2026](https://hack4rail.org) and the opportunity to discuss what could come next.
-
-The project is about addressing the challenge of [](https://hack4rail.org/challenges/digitalization-of-taxi-vouchers-and-passenger-pooling-in-disruption-cases/) and the project published its solution at https://github.com/OpenRail-Playground/taxi.
+You can fi d all our past meetups on our [meeting bord](https://github.com/orgs/OpenRailAssociation/projects/35/views/2) including the links to the recordings. Enjoy watching them. 
