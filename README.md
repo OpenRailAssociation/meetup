@@ -19,4 +19,4 @@ Discover how railway regulations can be transformed into machine-readable format
 
 ## Past Meetups
 
-You can fi d all our past meetups on our [meeting bord](https://github.com/orgs/OpenRailAssociation/projects/35/views/2) including the links to the recordings. Enjoy watching them. 
+You can fi d all our past meetups on our [meeting board](https://github.com/orgs/OpenRailAssociation/projects/35/views/2) including the links to the recordings. Enjoy watching them. 
