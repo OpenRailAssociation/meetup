@@ -12,7 +12,7 @@ If you have any questions or are interested in presenting a topic please reach o
 
 **Date:** Thursday,  13.8.2026<br/>
 **Time:** 14:00 CEST<br/>
-**Link to join:** [Join here](https://github.com/OpenRailAssociation/meetup/issues/4) <br/>
+**Link to join:** [Join here](https://meet.jit.si/moderated/dc646b19b988ac7b4504904ed4a0e23a4bcc548c2fd70b7028a33482dc25d814) <br/>
 **Topic:** [Machine-Readable Railway Regulations](https://github.com/OpenRailAssociation/meetup/issues/5)
 
 Discover how railway regulations can be transformed into machine-readable formats to improve interoperability, automation, and digital innovation across the rail sector.
