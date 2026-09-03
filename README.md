@@ -12,8 +12,8 @@ If you have any questions or are interested in presenting a topic please reach o
 
 **Date:** Thursday, 10.9.2026<br/>
 **Time:** 14:00 CEST<br/>
-**Link to join:** [Join here](https://meet.jit.si/moderated/dc646b19b988ac7b4504904ed4a0e23a4bcc548c2fd70b7028a33482dc25d814) <br/>
-**Topic:** to be announced
+**Link to join:** https://openrailassociation.org/community/#2026-09-10-openrail-community-meetup-osrd-roadmap-review <br/>
+**Topic:** OSRD roadmap review
 
 ## Past Meetups
 
